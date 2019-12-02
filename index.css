@@ -1,0 +1,7 @@
+* {
+    box-sizing: border-box;
+}
+.photo{
+    width:125px;
+    height:200px;
+}
